@@ -1,6 +1,10 @@
 # linkdoctor
 
+### Clone this repo
+`git clone https://github.com/ptzimmerman/linkdoctor.git`
+
 ### Setup Virtual Environment
+[Install pyenv](https://github.com/pyenv/pyenv)
 `python3 -m venv link_doctor`
 
 ### Drop into pyenv
