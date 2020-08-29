@@ -4,7 +4,7 @@
 `git clone https://github.com/ptzimmerman/linkdoctor.git`
 
 ### Setup Virtual Environment
-[Install pyenv](https://github.com/pyenv/pyenv)  
+If you don't have a virtual environment set up and you're on macOS, [go here](https://opensource.com/article/19/5/python-3-default-mac)  
 `python3 -m venv link_doctor`
 
 ### Drop into pyenv
